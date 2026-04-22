@@ -42,6 +42,8 @@ udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
 
+udp://opentracker.io:6969/announce
+
 udp://p4p.arenabg.com:1337/announce
 
 udp://rekcart.duckdns.org:15480/announce
@@ -88,7 +90,7 @@ udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-udp://tracker.hismz.cn:6969/announce
+udp://tracker.huadongblower.xyz:8080/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
