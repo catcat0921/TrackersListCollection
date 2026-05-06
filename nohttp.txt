@@ -38,6 +38,10 @@ udp://open.ftorrent.com:443/announce
 
 udp://open.stealth.si:80/announce
 
+udp://open.tracker.cl:1337/announce
+
+udp://open.tracker.ink:6969/announce
+
 udp://opentor.org:2710/announce
 
 udp://p4p.arenabg.com:1337/announce
@@ -60,6 +64,8 @@ udp://torrents.tmtime.dev:6969/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
+udp://tracker-udp.gbitt.info:80/announce
+
 udp://tracker.004430.xyz:1337/announce
 
 udp://tracker.1h.is:1337/announce
@@ -67,8 +73,6 @@ udp://tracker.1h.is:1337/announce
 udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.bluefrog.pw:2710/announce
-
-udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.corpscorp.online:80/announce
 
@@ -114,6 +118,8 @@ udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://tracker.torrentclaw.com:1337/announce
+
 udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
@@ -131,8 +137,6 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
-
-udp://trackthis.cyber.pz.it:1337/announce
 
 udp://uabits.today:6990/announce
 
