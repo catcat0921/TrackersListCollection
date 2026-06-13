@@ -30,6 +30,8 @@ https://banananetwork.qzz.io:443/announce
 
 https://orgtgju.org:443/announce
 
+https://shahidrazi.online:443/announce
+
 https://t.213891.xyz:443/announce
 
 https://torrents.tmtime.dev:443/announce
@@ -62,19 +64,21 @@ https://tracker1.520.jp:443/announce
 
 udp://anime-tracker.aruku.kro.kr:8081/announce
 
-udp://archive.torrentonline.cc:42069/announce
-
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://coeus.torrentonline.cc:42069/announce
 
 udp://evan.im:6969/announce
 
+udp://explodie.org:6969/announce
+
 udp://martin-gebhardt.eu:25/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://open.demonii.com:1337/announce
+
+udp://open.demonoid.ch:6969/announce
 
 udp://open.ftorrent.com:443/announce
 
@@ -86,9 +90,13 @@ udp://opentor.org:2710/announce
 
 udp://p4p.arenabg.com:1337/announce
 
+udp://retracker01-msk-virt.corbina.net:80/announce
+
 udp://seedpeer.net:6969/announce
 
 udp://t.overflow.biz:6969/announce
+
+udp://torrentclub.online:54123/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -110,8 +118,6 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://tracker.flatuslifir.is:6969/announce
-
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.hismz.cn:6969/announce
@@ -119,6 +125,8 @@ udp://tracker.hismz.cn:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
+
+udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
@@ -130,11 +138,7 @@ udp://tracker.t-1.org:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.tryhackx.org:6969/announce
-
 udp://tracker.wildkat.net:6969/announce
-
-udp://tracker2.dler.org:80/announce
 
 udp://uabits.today:6990/announce
 
