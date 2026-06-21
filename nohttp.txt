@@ -94,6 +94,8 @@ udp://tracker.hismz.cn:6969/announce
 
 udp://tracker.huadongblower.xyz:8080/announce
 
+udp://tracker.iperson.xyz:6969/announce
+
 udp://tracker.opentorrent.top:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -139,4 +141,6 @@ udp://udp.tracker.projectk.org:23333/announce
 udp://whybother.torrentonline.cc:42069/announce
 
 udp://yuptracker-eu.gaijinent.com:27022/announce
+
+udp://zer0day.ch:1337/announce
 
