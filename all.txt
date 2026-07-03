@@ -52,8 +52,6 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.tritan.gg:8080/announce
-
 http://tracker.waaa.moe:6969/announce
 
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
@@ -82,9 +80,9 @@ https://open.ftorrent.com:443/announce
 
 https://orgtgju.org:443/announce
 
-https://shahidrazi.online:443/announce
+https://pybittrack.retiolus.net:443/announce
 
-https://staticfile-bobcat.wasmer.app:443/announce
+https://shahidrazi.online:443/announce
 
 https://t.213891.xyz:443/announce
 
@@ -98,13 +96,13 @@ https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
-https://tr.zukizuki.org:443/announce
-
 https://tracker.7471.top:443/announce
 
 https://tracker.anibt.net:443/announce
 
 https://tracker.bt4g.com:443/announce
+
+https://tracker.bug38.com:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
@@ -262,6 +260,8 @@ udp://tracker.therarbg.to:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://tracker.trackarr.org:6969/announce
+
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.wildkat.net:6969/announce
@@ -280,7 +280,11 @@ udp://whybother.torrentonline.cc:42069/announce
 
 udp://yuptracker-eu.gaijinent.com:27022/announce
 
-udp://zer0day.ch:1337/announce
+udp://yuptracker-sa.gaijinent.com:27022/announce
+
+udp://yuptracker-us.gaijinent.com:27022/announce
+
+udp://yuptracker.gaijinent.com:27022/announce
 
 wss://tracker.openwebtorrent.com:443/announce
 
