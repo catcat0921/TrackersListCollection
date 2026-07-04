@@ -14,8 +14,6 @@ udp://archive.torrentonline.cc:42069/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-udp://coeus.torrentonline.cc:42069/announce
-
 udp://concen.org:6969/announce
 
 udp://evan.im:6969/announce
@@ -98,8 +96,6 @@ udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
 
-udp://tracker.fnix.net:6969/announce
-
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.hismz.cn:6969/announce
@@ -117,8 +113,6 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.playground.ru:6969/announce
-
-udp://tracker.plx.im:6969/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
@@ -150,11 +144,5 @@ udp://tracker4.itzmx.com:2710/announce
 
 udp://whybother.torrentonline.cc:42069/announce
 
-udp://yuptracker-eu.gaijinent.com:27022/announce
-
-udp://yuptracker-sa.gaijinent.com:27022/announce
-
-udp://yuptracker-us.gaijinent.com:27022/announce
-
-udp://yuptracker.gaijinent.com:27022/announce
+udp://zer0day.ch:1337/announce
 
