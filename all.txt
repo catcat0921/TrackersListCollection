@@ -1,5 +1,7 @@
 http://004430.xyz:80/announce
 
+http://0123456789nonexistent.com:80/announce
+
 http://107.189.2.131:1337/announce
 
 http://132.243.161.144:6969/announce
@@ -16,9 +18,15 @@ http://announce.sktorrent.eu:6969/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
+http://bt.okmp3.ru:2710/announce
+
+http://bt.poletracker.org:2710/announce
+
 http://bt1.archive.org:6969/announce
 
 http://bt2.archive.org:6969/announce
+
+http://home.yxgz.club:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
@@ -27,6 +35,14 @@ http://maxsrv.xyz:9000/announce
 http://nyaa.tracker.wf:7777/announce
 
 http://retracker01-msk-virt.corbina.net:80/announce
+
+http://share.hkg-fansub.info:80/announce.php
+
+http://shubt.net:2710/announce
+
+http://supertracker.cc.cd:80/announce
+
+http://torrent.hificode.in:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -46,9 +62,13 @@ http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
+http://tracker.moxing.party:6969/announce
+
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentorrent.top:6969/announce
+
+http://tracker.opentrackr.org:1337/announce
 
 http://tracker.plx.im:6969/announce
 
@@ -71,6 +91,8 @@ http://tracker.zhuqiy.dgj055.icu:80/announce
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.dler.org:80/announce
+
+http://www.torrentsnipe.info:2701/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -96,9 +118,9 @@ https://t.213891.xyz:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-https://torrents.tmtime.dev:443/announce
-
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -109,6 +131,8 @@ https://tracker.7471.top:443/announce
 https://tracker.anibt.net:443/announce
 
 https://tracker.bt4g.com:443/announce
+
+https://tracker.foreverpirates.co:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
@@ -144,8 +168,6 @@ udp://admin.52ywp.com:6969/announce
 
 udp://anime-tracker.aruku.kro.kr:8081/announce
 
-udp://archive.torrentonline.cc:42069/announce
-
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://coeus.torrentonline.cc:42069/announce
@@ -167,8 +189,6 @@ udp://mail.segso.net:6969/announce
 udp://martin-gebhardt.eu:25/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
-
-udp://obey.torrentonline.cc:42069/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -195,8 +215,6 @@ udp://t.overflow.biz:6969/announce
 udp://torrentclub.online:1984/announce
 
 udp://torrentclub.online:54123/announce
-
-udp://torrents.tmtime.dev:6969/announce
 
 udp://tr.btube3.com:2010/announce
 
@@ -260,8 +278,6 @@ udp://tracker.therarbg.to:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.trackarr.org:6969/announce
-
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.wildkat.net:6969/announce
@@ -277,8 +293,6 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://v6.vito-tracker.space:6969/announce
-
-udp://whybother.torrentonline.cc:42069/announce
 
 wss://tracker.openwebtorrent.com:443/announce
 
