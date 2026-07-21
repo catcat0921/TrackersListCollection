@@ -120,6 +120,10 @@ udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://tracker.trackarr.org:6969/announce
+
+udp://tracker.tryhackx.org:6969/announce
+
 udp://tracker.wildkat.net:6969/announce
 
 udp://tracker1.itzmx.com:8080/announce
