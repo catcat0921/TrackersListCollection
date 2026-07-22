@@ -94,6 +94,8 @@ udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
 
+udp://tracker.iperson.xyz:6969/announce
+
 udp://tracker.nexusstream.eu:6969/announce
 
 udp://tracker.nyaa.vc:6969/announce
@@ -108,6 +110,8 @@ udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.playground.ru:6969/announce
 
+udp://tracker.plx.im:6969/announce
+
 udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.qu.ax:6969/announce
@@ -116,11 +120,7 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.teambelgium.net:6969/announce
 
-udp://tracker.theoks.net:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.trackarr.org:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
@@ -139,6 +139,4 @@ udp://tracker4.itzmx.com:2710/announce
 udp://v6.vito-tracker.space:6969/announce
 
 udp://whybother.torrentonline.cc:42069/announce
-
-udp://zer0day.ch:1337/announce
 
