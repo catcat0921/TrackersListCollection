@@ -1,5 +1,7 @@
 http://004430.xyz:80/announce
 
+http://0d.kebhana.mx:443/announce
+
 http://107.189.2.131:1337/announce
 
 http://1337.abcvg.info:80/announce
@@ -46,21 +48,17 @@ http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
-http://tracker.ipv6tracker.org:80/announce
-
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.nexusstream.eu:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
+http://tracker.plx.im:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
-
-http://tracker.tritan.gg:8080/announce
 
 http://tracker.waaa.moe:6969/announce
 
@@ -74,7 +72,7 @@ http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.dler.org:80/announce
 
-http://tracker810.xyz:11450/announce
+http://www.torrentsnipe.info:2701/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -82,13 +80,9 @@ https://004430.xyz:443/announce
 
 https://1337.abcvg.info:443/announce
 
-https://ht.therarbg.to:443/announce
-
 https://open.ftorrent.com:443/announce
 
 https://pybittrack.retiolus.net:443/announce
-
-https://shahidrazi.online:443/announce
 
 https://t.213891.xyz:443/announce
 
