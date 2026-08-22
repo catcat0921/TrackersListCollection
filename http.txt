@@ -12,8 +12,6 @@ http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
 http://announce.sktorrent.eu:6969/announce
 
-http://asiatorrent.giize.com:51413/announce
-
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://bt.okmp3.ru:2710/announce
@@ -24,37 +22,23 @@ http://bt2.archive.org:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-http://ns3109441.mypdns.org:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
-
-http://retracker.spark-rostov.ru:80/announce
 
 http://retracker01-msk-virt.corbina.net:80/announce
 
 http://t.overflow.biz:6969/announce
 
-http://torrent.hificode.in:6969/announce
-
 http://torrentsmd.com:8080/announce
 
 http://tr.nyacat.pw:80/announce
 
-http://tracker.bittor.pw:1337/announce
-
 http://tracker.bt4g.com:2095/announce
-
-http://tracker.bz:80/announce
 
 http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
-
-http://tracker.ipv6tracker.org:80/announce
-
-http://tracker.lintk.me:2710/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -68,19 +52,15 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.sbsub.com:2710/announce
-
 http://tracker.waaa.moe:6969/announce
+
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 http://tracker.zhuqiy.com:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.dler.org:80/announce
-
-http://tracker810.xyz:11450/announce
-
-http://www.genesis-sp.org:2710/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -98,9 +78,9 @@ https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.nyacat.pw:443/announce
+
+https://tr.zukizuki.org:443/announce
 
 https://tracker.7471.top:443/announce
 
@@ -109,6 +89,8 @@ https://tracker.adgk.net:443/announce
 https://tracker.bt4g.com:443/announce
 
 https://tracker.bug38.com:443/announce
+
+https://tracker.cangku.moe:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
