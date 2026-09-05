@@ -1,7 +1,5 @@
 http://004430.xyz:80/announce
 
-http://0d.kebhana.mx:443/announce
-
 http://107.189.2.131:1337/announce
 
 http://1337.abcvg.info:80/announce
@@ -18,17 +16,11 @@ http://bt1.archive.org:6969/announce
 
 http://bt2.archive.org:6969/announce
 
-http://ftp.pet:2710/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://retracker.spark-rostov.ru:80/announce
-
 http://retracker01-msk-virt.corbina.net:80/announce
-
-http://seeders-paradise.org:80/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -50,8 +42,6 @@ http://tracker.nexusstream.eu:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-http://tracker.plx.im:6969/announce
-
 http://tracker.privateseedbox.xyz:2710/announce
 
 http://tracker.qu.ax:6969/announce
@@ -60,8 +50,6 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.waaa.moe:6969/announce
 
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
-
 http://tracker.zhuqiy.com:80/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
@@ -69,8 +57,6 @@ http://tracker.zhuqiy.dgj055.icu:80/announce
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.dler.org:80/announce
-
-http://tracker810.xyz:11450/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -86,13 +72,13 @@ https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
 
 https://tracker.7471.top:443/announce
+
+https://tracker.bt4g.com:443/announce
 
 https://tracker.bug38.com:443/announce
 
@@ -111,6 +97,8 @@ https://tracker.onetracker.net:443/announce
 https://tracker.pmman.tech:443/announce
 
 https://tracker.qingwapt.org:443/announce
+
+https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
