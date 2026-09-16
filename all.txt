@@ -1,3 +1,5 @@
+http://004430.xyz:80/announce
+
 http://107.189.2.131:1337/announce
 
 http://1337.abcvg.info:80/announce
@@ -24,11 +26,7 @@ http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tr.nyacat.pw:80/announce
-
 http://tracker.bt4g.com:2095/announce
-
-http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
 
@@ -41,8 +39,6 @@ http://tracker.nexusstream.eu:6969/announce
 http://tracker.opentorrent.top:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
-
-http://tracker.privateseedbox.xyz:2710/announce
 
 http://tracker.qu.ax:6969/announce
 
@@ -68,19 +64,17 @@ https://1337.abcvg.info:443/announce
 
 https://open.ftorrent.com:443/announce
 
+https://pybittrack.retiolus.net:443/announce
+
 https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
-https://tr.nyacat.pw:443/announce
-
 https://tracker.7471.top:443/announce
 
 https://tracker.bt4g.com:443/announce
-
-https://tracker.bug38.com:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -200,6 +194,8 @@ udp://tracker.nexusstream.eu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
 
+udp://tracker.nyaa.vc:6969/announce
+
 udp://tracker.opentorrent.top:6969/announce
 
 udp://tracker.opentrackr.com:6969/announce
@@ -220,7 +216,7 @@ udp://tracker.teambelgium.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.tryhackx.org:6969/announce
+udp://tracker.torrents.observer:80/announce
 
 udp://tracker.wildkat.net:6969/announce
 
@@ -237,6 +233,8 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://v6.vito-tracker.space:6969/announce
+
+udp://whybother.torrentonline.cc:42069/announce
 
 udp://yuptracker-eu.gaijinent.com:27022/announce
 
