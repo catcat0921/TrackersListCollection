@@ -16,6 +16,8 @@ http://tracker.dler.com:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.opentrackr.org:1337/announce
+
 http://tracker.renfei.net:8080/announce
 
 http://tracker.waaa.moe:6969/announce
@@ -27,6 +29,8 @@ http://tracker.zhuqiy.dgj055.icu:80/announce
 http://www.wareztorrent.com:80/announce
 
 https://004430.xyz:443/announce
+
+https://1.tracker.eu.org:443/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -82,6 +86,8 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
+udp://retracker01-msk-virt.corbina.net:80/announce
+
 udp://t.overflow.biz:6969/announce
 
 udp://torrent.tracker.durukanbal.com:6969/announce
@@ -124,6 +130,8 @@ udp://tracker.nexusstream.eu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
 
+udp://tracker.nyaa.vc:6969/announce
+
 udp://tracker.opentrackr.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -137,6 +145,8 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.teambelgium.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker2.dler.org:80/announce
 
