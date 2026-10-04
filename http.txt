@@ -1,7 +1,5 @@
 http://004430.xyz:80/announce
 
-http://107.189.2.131:1337/announce
-
 http://1337.abcvg.info:80/announce
 
 http://207.241.226.111:6969/announce
@@ -67,6 +65,8 @@ https://1.tracker.eu.org:443/announce
 https://1337.abcvg.info:443/announce
 
 https://open.ftorrent.com:443/announce
+
+https://pybittrack.retiolus.net:443/announce
 
 https://t.213891.xyz:443/announce
 
