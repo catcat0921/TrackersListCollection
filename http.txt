@@ -1,5 +1,7 @@
 http://004430.xyz:80/announce
 
+http://107.189.2.131:1337/announce
+
 http://1337.abcvg.info:80/announce
 
 http://207.241.226.111:6969/announce
@@ -38,8 +40,6 @@ http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.opentorrent.top:6969/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
@@ -66,11 +66,11 @@ https://1337.abcvg.info:443/announce
 
 https://open.ftorrent.com:443/announce
 
-https://pybittrack.retiolus.net:443/announce
-
 https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 

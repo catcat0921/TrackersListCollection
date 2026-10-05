@@ -1,5 +1,7 @@
 http://004430.xyz:80/announce
 
+http://107.189.2.131:1337/announce
+
 http://1337.abcvg.info:80/announce
 
 http://207.241.226.111:6969/announce
@@ -38,8 +40,6 @@ http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.opentorrent.top:6969/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
@@ -66,11 +66,11 @@ https://1337.abcvg.info:443/announce
 
 https://open.ftorrent.com:443/announce
 
-https://pybittrack.retiolus.net:443/announce
-
 https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -106,6 +106,8 @@ udp://admin.52ywp.com:6969/announce
 
 udp://anime-tracker.aruku.kro.kr:8081/announce
 
+udp://archive.torrentonline.cc:42069/announce
+
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://edgev.duckdns.org:6969/announce
@@ -117,6 +119,8 @@ udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
+
+udp://ipv6.govt.hu:6969/announce
 
 udp://kolankoalastree.newtrackon.co.nz:1337/announce
 
@@ -150,6 +154,8 @@ udp://t.overflow.biz:6969/announce
 
 udp://torrent.tracker.durukanbal.com:6969/announce
 
+udp://tr.btube3.com:2010/announce
+
 udp://tr3.ysagin.top:2715/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
@@ -176,13 +182,19 @@ udp://tracker.dler.org:6969/announce
 
 udp://tracker.ducks.party:1984/announce
 
+udp://tracker.farted.net:6969/announce
+
 udp://tracker.filemail.com:6969/announce
+
+udp://tracker.flatuslifir.is:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
+
+udp://tracker.k.vu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
 
@@ -201,8 +213,6 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
