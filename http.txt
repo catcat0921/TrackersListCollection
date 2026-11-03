@@ -8,6 +8,8 @@ http://207.241.226.111:6969/announce
 
 http://207.241.231.226:6969/announce
 
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
 http://bt1.archive.org:6969/announce
 
 http://bt2.archive.org:6969/announce
@@ -34,8 +36,6 @@ http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
-
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
@@ -43,8 +43,6 @@ http://tracker.renfei.net:8080/announce
 http://tracker.skyts.net:6969/announce
 
 http://tracker.waaa.moe:6969/announce
-
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
@@ -72,15 +70,11 @@ https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
 
 https://tracker.7471.top:443/announce
-
-https://tracker.cangku.moe:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
