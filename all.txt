@@ -26,8 +26,6 @@ http://torrentsmd.com:8080/announce
 
 http://tr.nyacat.pw:80/announce
 
-http://tracker.bittor.pw:1337/announce
-
 http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
@@ -38,11 +36,11 @@ http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.opentrackr.org:1337/announce
+
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://tracker.waaa.moe:6969/announce
 
@@ -64,8 +62,6 @@ https://1.tracker.eu.org:443/announce
 
 https://1337.abcvg.info:443/announce
 
-https://gargoyleperch.de:443/announce
-
 https://ht.therarbg.to:443/announce
 
 https://open.ftorrent.com:443/announce
@@ -85,8 +81,6 @@ https://tracker.7471.top:443/announce
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.kuroy.me:443/announce
-
-https://tracker.midnightprogrammer.net:443/announce
 
 https://tracker.nekomi.cn:443/announce
 
@@ -150,13 +144,13 @@ udp://opentor.org:2710/announce
 
 udp://opentracker.lain.moscow:6969/announce
 
+udp://opentracker2.lain.moscow:6969/announce
+
 udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
-
-udp://seedpeer.net:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -171,6 +165,8 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.004430.xyz:1337/announce
 
 udp://tracker.aruku.ovh:8081/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -189,6 +185,8 @@ udp://tracker.evergarden.uk:1914/announce
 udp://tracker.farted.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
+
+udp://tracker.flatuslifir.is:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
@@ -239,6 +237,8 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+udp://v2.iperson.xyz:6969/announce
 
 udp://whybother.torrentonline.cc:42069/announce
 
