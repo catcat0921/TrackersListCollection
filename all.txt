@@ -74,10 +74,6 @@ https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://tr.abir.ga:443/announce
-
-https://tr.burnabyhighstar.com:443/announce
-
 https://tr.nyacat.pw:443/announce
 
 https://tracker.7471.top:443/announce
@@ -109,6 +105,10 @@ udp://[2a03:7220:8083:cd00::1]:451/announce
 udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 udp://admin.52ywp.com:6969/announce
+
+udp://announce.augrains.com:6969/announce
+
+udp://archive.torrentonline.cc:42069/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
@@ -146,10 +146,6 @@ udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
 
-udp://opentracker.lain.moscow:6969/announce
-
-udp://opentracker2.lain.moscow:6969/announce
-
 udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -176,6 +172,8 @@ udp://tracker.aruku.ovh:8081/announce
 
 udp://tracker.bittor.pw:1337/announce
 
+udp://tracker.bluefrog.pw:2710/announce
+
 udp://tracker.cn.nyaa.net:6969/announce
 
 udp://tracker.corpscorp.online:80/announce
@@ -193,8 +191,6 @@ udp://tracker.farted.net:6969/announce
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
-
-udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
