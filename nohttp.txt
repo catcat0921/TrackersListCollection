@@ -10,6 +10,8 @@ udp://admin.52ywp.com:6969/announce
 
 udp://announce.augrains.com:6969/announce
 
+udp://archive.torrentonline.cc:42069/announce
+
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://discover.curiousfacts.blog:6969/announce
@@ -88,8 +90,6 @@ udp://tracker.ducks.party:1984/announce
 
 udp://tracker.evergarden.uk:1914/announce
 
-udp://tracker.farted.net:6969/announce
-
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
@@ -97,8 +97,6 @@ udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
-
-udp://tracker.k.vu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
 
