@@ -8,6 +8,8 @@ udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 udp://admin.52ywp.com:6969/announce
 
+udp://anime-tracker.aruku.kro.kr:8081/announce
+
 udp://announce.augrains.com:6969/announce
 
 udp://archive.torrentonline.cc:42069/announce
@@ -94,6 +96,8 @@ udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
 
+udp://tracker.fnix.net:6969/announce
+
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
@@ -117,6 +121,8 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.sela.st:6969/announce
 
 udp://tracker.skyts.net:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
