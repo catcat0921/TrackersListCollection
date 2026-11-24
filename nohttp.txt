@@ -128,8 +128,6 @@ udp://tracker.playground.ru:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
-udp://tracker.sela.st:6969/announce
-
 udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
