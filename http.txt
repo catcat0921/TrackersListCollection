@@ -22,8 +22,6 @@ http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tr.highstar.shop:80/announce
-
 http://tr.nyacat.pw:80/announce
 
 http://tracker.23794.top:6969/announce
@@ -60,8 +58,6 @@ http://tracker2.dler.org:80/announce
 
 http://tracker4.itzmx.com:2710/announce
 
-http://www.all4nothin.net:80/announce.php
-
 http://www.wareztorrent.com:80/announce
 
 https://004430.xyz:443/announce
@@ -71,8 +67,6 @@ https://1.tracker.eu.org:443/announce
 https://1337.abcvg.info:443/announce
 
 https://ht.therarbg.to:443/announce
-
-https://lattice.peerrelay.workers.dev:443/announce
 
 https://open.ftorrent.com:443/announce
 
